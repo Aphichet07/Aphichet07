@@ -24,7 +24,7 @@ I am a passionate developer and researcher focused on **3D Computer Vision** and
 
 ### 🌟 Highlight Projects
 
-- **[Gitskill.ai](https://github.com/your-username/gitskill)**: AI-powered platform to summarize GitHub repos for HR evaluation.
+- **[Gitskill.ai](https://github.com/Aphichet07/gitskill)**: AI-powered platform to summarize GitHub repos for HR evaluation.
 - **[All-in-One Quant Terminal]**: Financial dashboard integrating Black-Scholes, Monte Carlo, and Sentiment Analysis.
 - **[SolveMe]**: Hyper-local community assistance platform (Top 8 @ LINE HACK 2025).
 
@@ -37,5 +37,5 @@ I am a passionate developer and researcher focused on **3D Computer Vision** and
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/aphichet-chaiyasat-2a21a1238/))
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](aphichet254888@gmail.com)
