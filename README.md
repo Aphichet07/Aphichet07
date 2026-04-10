@@ -1,5 +1,5 @@
 # Hi there, I'm Bank (Aphichet Chaiyasat) 👋
-### 2nd Year Applied Computer Science Student @ KMUTT | Data Engineer Intern @ Sertis
+### 2nd Year Applied Computer Science Student @ KMUTT
 
 I am a passionate developer and researcher focused on **3D Computer Vision** and **Quantitative Finance**. Currently, I'm exploring the intersection of deep learning and structural analysis while building scalable data pipelines.
 
