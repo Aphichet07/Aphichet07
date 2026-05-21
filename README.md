@@ -6,7 +6,7 @@ I am a passionate developer and researcher focused on **3D Computer Vision** and
 ---
 
 ### 🚀 Quick Glance
-- **Research Fellow:** Focusing on 3D Structural Damage Classification (Point Clouds).
+- **Research Fellow:** Focusing on 3D Structural Damage Segmentation and Classification (Point Clouds).
 - **Hackathon Lover:** 1st Place GenAI Hackathon (Mitr Phol) & LINE HACK 2025 Finalist.
 
 ---
@@ -24,18 +24,11 @@ I am a passionate developer and researcher focused on **3D Computer Vision** and
 
 ### 🌟 Highlight Projects
 
-- **[Gitskill.ai](https://github.com/Aphichet07/gitskill)**: AI-powered platform to summarize GitHub repos for HR evaluation.
-- **[All-in-One Quant Terminal]**: Financial dashboard integrating Black-Scholes, Monte Carlo, and Sentiment Analysis.
-- **[SolveMe]**: Hyper-local community assistance platform (Top 8 @ LINE HACK 2025).
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- **[Gitskill](https://github.com/Aphichet07/gitskill)**:  AI-Powered GitHub Profiler for Tech Recruiters.
+- **[PortViz](https://github.com/Aphichet07/Port_Simulation)**: Quantitative Portfolio Simulation Platform.
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/aphichet-chaiyasat-2a21a1238/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aphichet-chaiyasat-2a21a1238/](https://www.linkedin.com/in/aphichet-chaiyasat-2a21a1238/))
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](aphichet254888@gmail.com)
