@@ -1,9 +1,7 @@
 <div align="center">
-  <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=Aphichet07&label=Profile%20Views&color=00599C&style=for-the-badge&logo=github" alt="Visitor Count" />
   <br><br>
 
-  <!-- Animated Typing Effect (อิงจากประโยคทักทายเดิมของคุณ) -->
   <a href="https://github.com/Aphichet07">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Bank+(Aphichet)+%F0%9F%91%8B;3D+Computer+Vision+Researcher;Quantitative+Finance+Developer;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
   </a>
@@ -32,7 +30,6 @@
 
 ### 🛠️ Tech Stack & Tools
 
-*(อิงจากตารางเดิมที่คุณจัดไว้ แต่ปรับขนาดไอคอนให้ดูเป็นระเบียบเข้ากัน)*
 
 | Category | Technologies |
 | :--- | :--- |
@@ -75,7 +72,6 @@
 
 <br>
 <div align="center">
-  <!-- Pinned Repo Cards (เชื่อมกับ Repo คุณโดยตรง) -->
   <a href="https://github.com/Aphichet07/gitskill">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aphichet07&repo=gitskill&theme=radical&bg_color=0D1117&hide_border=true" alt="Gitskill" />
   </a>
